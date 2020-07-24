@@ -1,0 +1,35 @@
+#customers {
+    overflow: hidden;
+}
+
+#printid {
+    display: none;
+}
+
+#invoice-table {
+    margin-left: -1rem;
+}
+
+#print-area {
+
+    margin-left: 2rem;
+    padding-right: 12rem;
+    border-right: 2px solid grey;
+
+}
+
+#tx {
+    margin-left: -1rem;
+    clear: both;
+
+}
+
+#hea {
+    margin-left: -1rem;
+}
+
+#pa {
+    padding-right: 10px;
+}
+
+
